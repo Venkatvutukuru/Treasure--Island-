@@ -40,11 +40,11 @@ else:
      if choice3 == "red":
          print("The door lead you to the treasure. You won the treasure")
      elif choice3 == "yellow":
-         print("The door has hungry lions behind it, which killed you\n!!!! game over !!!!")
+         print("The door has hungry lions behind it, which killed you\n!!!!Game over!!!!")
      elif choice3 == "green":
-         print("There are Beasts behind the door, who killed you\n!!! Game Over!!!")
+         print("There are Beasts behind the door, who killed you\n!!!Game over!!!")
      else:
-         print("The door selection is invalid\n !!!Game Over!!!")
+         print("The door selection is invalid\n !!!Game over!!!")
 
 
 
